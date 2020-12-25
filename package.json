@@ -1,0 +1,22 @@
+{
+  "name": "nekocas",
+  "version": "1.0.5",
+  "description": "NekoCAS SDK for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekoWheel/NekoCAS_Node_SDK.git"
+  },
+  "author": "Kevin",
+  "license": " Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NekoWheel/NekoCAS_Node_SDK/issues"
+  },
+  "homepage": "https://github.com/NekoWheel/NekoCAS_Node_SDK#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
